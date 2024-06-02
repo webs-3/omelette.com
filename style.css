@@ -1,0 +1,33 @@
+.overall{
+    background-color: rgb(255, 255, 255);
+    border-radius: 7%;
+    padding: 20px;
+}
+
+body{
+    
+    background-color: #ffe4c4;
+    padding: 50px;
+    justify-content: center;
+    display: flex;
+}
+.img1{
+    border-radius: 20px;
+    cursor: grab;
+}
+.h11{
+    font-weight: lighter;
+    text-align: left;
+    margin-top: 50px;
+}
+.bg{
+    background-color: rgba(123, 94, 150, 0.161);
+    color: brown;
+    border-radius: 10px;
+    
+}
+.h22{
+    padding: 12px 0px 0px 12px;
+    font-size: 20px ;
+    
+}
